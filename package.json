@@ -1,7 +1,7 @@
 {
   "name": "web-optimizer-cli",
   "version": "1.0.0",
-  "description": "CLI em Bun para otimizar e converter imagens para WebP e vídeos para WebM",
+  "description": "Bun CLI to optimize and convert images to WebP and videos to WebM",
   "module": "src/index.ts",
   "type": "module",
   "bin": {
